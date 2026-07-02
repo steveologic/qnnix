@@ -1,14 +1,14 @@
-# 👾 Hey, I'm qnnix 
+# 👾 Hey, I'm steveology 
  ### 🧑‍💻 About Me
->💻 Low–mid level coder (I understand code, I break code, sometimes I even fix it lmao.)  
->⚡ Love messing with tech, tools, tweaks & unique style coding  
->🌱 Always learning new things in dev, design, and sound
+> Low level Developer (I understand code, I break code, sometimes I even fix it lmao.)  
+> Love messing with tech, tools, tweaks & unique style coding  
+> Always learning new things in dev, design, and sound.
+> I Also love expermenting with devices, hardware etc.
 
  ### ☁️ Hobbies 
->🎶 Music Producer (FL Studio addict)  
->🎨 Graphic Designer (Photoshop, Illustrator, After Effects, you name it)
->💻 Tech Savvy
->
+> Tech
+> Music Producer (FL Studio addict)  
+> Graphic Designer (Photoshop, Figma, you name it)
 
 ### 🔧 Skills
 >Not a coding god, but I can vibe with the basics:
@@ -41,9 +41,10 @@
 
 
 ### 📬 **Connect with Me** 
->- **Telegram:** [@qnnix](https://t.me/qnnix)  
+>- **Email:** [xsteven.wav@gmail.com](mailto:xsteven.wav@gmail.com)
+>- **Instagram:** [@xsteven.wav](https://www.instagram.com/xsteven.wav)
 
-![](https://komarev.com/ghpvc/?username=qnnix&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=steveologic&style=for-the-badge)
 
 **[ I debug life the same way I debug code ]**
 **[ breaking stuff, learning along the way ]**
